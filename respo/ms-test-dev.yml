@@ -1,1 +1,4 @@
+server:
+  port: 7911
+  
 foo: go
